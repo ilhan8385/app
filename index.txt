@@ -1,3 +1,7 @@
+ben duzelttim
+merhaba
+ikinci satir
 merhaba 
 masterdan gelen guncelleme
 remote masterdan ikinci satir
+
